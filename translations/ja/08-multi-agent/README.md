@@ -150,19 +150,19 @@
 
 > TIP: カスタマーサポートプロセスの異なる段階や、システムに必要なエージェントについても考慮してください。
 
-## Solution
+## 解答
 
-[Solution](./solution/solution.md)
+[解答](./solution/solution.md)
 
-## Knowledge checks
+## 知識確認
 
-Question: いつマルチエージェントの使用を検討すべきですか？
+質問: いつマルチエージェントの使用を検討すべきですか？
 
 - [ ] A1: 作業量が少なく、タスクが単純な場合。
 - [ ] A2: 作業量が多い場合。
 - [ ] A3: タスクが単純な場合。
 
-[Solution quiz](./solution/solution-quiz.md)
+[解答クイズ](./solution/solution-quiz.md)
 
 ## まとめ
 
